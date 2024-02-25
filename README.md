@@ -1,10 +1,10 @@
 ![Hey there, I am Lâm Long. I am a Game Developer and it's really nice to see you guys](https://github.com/ngoclonglam/ngoclonglam/blob/main/header.gif)
 
-[![GitHub followers](https://img.shields.io/github/followers/ngoclonglam)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ngoclonglam)](https://github.com/ngoclonglam) &nbsp; [![GitHub Repo Stars](https://img.shields.io/github/stars/ngoclonglam/MysteriousCity-V2)](https://github.com/ngoclonglam/MysteriousCity-V2)
+[![GitHub followers](https://img.shields.io/github/followers/ngoclonglam?style=for-the-badge&logo=GitHub)](https://github.com/ngoclonglam) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ngoclonglam?style=for-the-badge&logo=github)](https://github.com/ngoclonglam) &nbsp; [![GitHub Repo Stars](https://img.shields.io/github/stars/ngoclonglam/MysteriousCity-V2?style=for-the-badge)](https://github.com/ngoclonglam/MysteriousCity-V2)
 
 # 👋 &nbsp;Hi there
 
-I'm a game developer based in Việt Nam. I enjoy coding on open-resource that can make more unique function and create more imagination to that project. I'm also interesting in Website Development and I'm trying to learn more and more day by day 💖 [@Facebook](https://www.facebook.com/ngoclong.lam.792/). Feel free to text me anytime.
+<h2>I'm a game developer based in Việt Nam. I enjoy coding on open-resource that can make more unique function and create more imagination to that project. I'm also interesting in Website Development and I'm trying to learn more and more day by day 💖 </h2>[@Facebook](https://www.facebook.com/ngoclong.lam.792/). Feel free to text me anytime.
 
 &nbsp;
 
