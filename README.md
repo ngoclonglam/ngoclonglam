@@ -4,7 +4,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a game developer based in Việt Nam. I enjoy coding on open-resource that can make more unique function and create more imagination to that project. I'm also interesting in Website Development and I'm trying to learn more and more day by day 💖 [@Facebook](https://www.facebook.com/ngoclong.lam.792/). Feel free to text me anytime.
+I'm a game developer & web developer based in Việt Nam. I enjoy coding on open-resource that can make more unique function and create more imagination to that project. I'm also interesting in Website Development and I'm trying to learn more and more day by day 💖 [@Facebook](https://www.facebook.com/ngoclong.lam.792/). Feel free to text me anytime.
 
 &nbsp;
 
