@@ -1,6 +1,6 @@
 ![Hey there, I am Lâm Long. I am a Game Developer and it's really nice to see you guys](https://github.com/ngoclonglam/ngoclonglam/blob/main/header.gif)
 
-[![GitHub followers](https://img.shields.io/github/followers/ngoclonglam?style=for-the-badge&logo=GitHub)](https://github.com/ngoclonglam) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ngoclonglam?style=for-the-badge&logo=github)](https://github.com/ngoclonglam) &nbsp; [![GitHub Repo Stars](https://img.shields.io/github/stars/ngoclonglam/MysteriousCity-V2?style=for-the-badge)]
+[![GitHub followers](https://img.shields.io/github/followers/ngoclonglam?style=for-the-badge&logo=GitHub)](https://github.com/ngoclonglam) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ngoclonglam?style=for-the-badge&logo=github)](https://github.com/ngoclonglam)
 
 # 👋 &nbsp;Hi there
 
